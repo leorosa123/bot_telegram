@@ -16,10 +16,10 @@
 # Como conseguir a Api com os dados?
 
 <p>Já está disponível no código fonte!!</p>
-<p>você também pode encotrar o link dela  <a href="https://api.sportsanalytics.com.br/api/v1/fixtures-svc/fixtures/livescores?include=weatherReport,additionalInfo,league,stats,pressureStats,probabilities">aqui</a>!!</p>
+<p>você também pode encontrar o link dela  <a href="https://api.sportsanalytics.com.br/api/v1/fixtures-svc/fixtures/livescores?include=weatherReport,additionalInfo,league,stats,pressureStats,probabilities">aqui</a>!!</p>
 
 
-# Como funciona os Calculos da Api?
+# Como funciona os Cálculos da Api?
 
 <p>É utilizado o website da <a href="https://playscores.com/scanner-futebol-online/ao-vivo">PlayScores</a> para a base da construção de estratégias</p>
 
