@@ -337,5 +337,5 @@ class Bot_telegram:
 
 
 if __name__ == "__main__":
-    bot = Bot_telegram('5603315518:AAHDs2Z7Q9bWZPZmv3HZYKpHMvZ1iZf0nZ8', '-1001882777748')
+    bot = Bot_telegram('token=ex:000-000-000', 'chat_bot=ex:-000000000')
     bot.gera_alerts()
